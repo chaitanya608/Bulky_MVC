@@ -1,0 +1,31 @@
+# Build artifacts
+[Bb]in/
+[Oo]bj/ 
+
+# Logs and temporary files
+*.log
+*.tmp
+*.lock
+
+# User-specific IDE settings and files
+.idea/
+*.user
+*.sln.docstates
+
+# Dependency packages (Restorable by package manager)
+packages/
+
+# Test results
+[Tt]est[Rr]esult*
+
+# Rider-specific cache files
+_ReSharper*/
+
+# NuGet artifacts
+*.nupkg
+
+# Other optional ignores (adjust as needed)
+*.suo 
+*.Publish.xml
+[Dd]ebug/
+[Rr]elease/
